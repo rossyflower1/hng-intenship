@@ -1,3 +1,3 @@
 # hng-intenship
 i'm lucky to be among the interns 
-i'm learning software development 
+it feels so good to learn software development 
